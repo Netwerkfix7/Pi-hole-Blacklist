@@ -12366,3 +12366,6 @@
 
 # [ad google]
 127.0.0.1 lh4.googleusercontent.com
+
+# [ad google]
+127.0.0.1 support.google.com
