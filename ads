@@ -12348,3 +12348,6 @@
 
 # [ad google]
 127.0.0.1 www.gstatic.com
+
+# [ad google]
+127.0.0.1 nav.smartscreen.microsoft.com
