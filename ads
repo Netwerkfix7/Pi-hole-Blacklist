@@ -12360,3 +12360,6 @@
  
 # [ad google]
 127.0.0.1 lh5.googleusercontent.com
+
+# [ad google]
+127.0.0.1 yt3.ggpht.com
