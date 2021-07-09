@@ -12351,3 +12351,6 @@
 
 # [ad google]
 127.0.0.1 nav.smartscreen.microsoft.com
+
+# [ad google]
+127.0.0.1 youtu.be
