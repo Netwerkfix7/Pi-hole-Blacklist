@@ -12354,3 +12354,9 @@
 
 # [ad google]
 127.0.0.1 youtu.be
+
+# [ad google]
+127.0.0.1 pagead2.googlesyndication.com
+ 
+# [ad google]
+127.0.0.1 lh5.googleusercontent.com
